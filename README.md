@@ -9,6 +9,7 @@ This project demonstrates how to set up and run a simple Kafka producer and cons
 - `holamundo.py`: Creates a producer and sends a message.
 - `consumer.py`: Creates a consumer and receives the message.
 - `delete.py`: Deletes the topic that was created previously.
+- `requirements.txt`: Used to install all the relevant dependencies.
 
 ## Prerequisites
 
