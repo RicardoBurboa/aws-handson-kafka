@@ -1,5 +1,5 @@
-# aws-handson-kafka
-Creates a Producer and Consumer leveraging AWS MSK for Apache Kafka.
+# aws-handson-kafka: Producer and Consumer with AWS MSK and EC2
+Creates a Producer and Consumer leveraging AWS MSK for Apache Kafka and EC2.
 
 ## Description
 This project demonstrates how to set up and run a simple Kafka producer and consumer using **AWS Managed Streaming for Kafka (MSK)**. The four Python files (`topic.py`, `holamundo.py`, `consumer.py` and `delete.py`) are intended to be executed inside an EC2 instance, which is configured with Docker to run a **JupyterLab** web environment for easy testing and interaction.
